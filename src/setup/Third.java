@@ -9,9 +9,11 @@ public class Third {
         public void m(int a){
 
         }
-        public void m(String s){
+
+    public static void main(String[] args) {
+        System.out.println("Updating my third java program");
+    }
 
         }
-    }
 
 
